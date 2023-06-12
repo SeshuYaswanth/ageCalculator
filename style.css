@@ -7,12 +7,8 @@
     --Smokey-grey: hsl(0, 1%, 44%);
     --Off-black: hsl(0, 0%, 8%);
 }
-@font-face {
-    font-family: Pop;
-    src: url(/assets/fonts/Poppins-Regular.ttf);
-}
 * {
-    font-family: Pop !important;
+    font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
     padding: 0;
     margin: 0;
